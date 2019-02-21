@@ -1,0 +1,9 @@
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\bin\Debug\MouseOver.exe
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\bin\Debug\MouseOver.pdb
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\obj\Debug\MouseOver.csprojAssemblyReference.cache
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\obj\Debug\MouseOver.Form1.resources
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\obj\Debug\MouseOver.Properties.Resources.resources
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\obj\Debug\MouseOver.csproj.GenerateResource.cache
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\obj\Debug\MouseOver.csproj.CoreCompileInputs.cache
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\obj\Debug\MouseOver.exe
+C:\Cloud\OneDrive\Exchange (Папка для Обмена Файлами)\Sources\Workspaces\MouseOver\MouseOver\obj\Debug\MouseOver.pdb
