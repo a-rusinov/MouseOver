@@ -49,5 +49,35 @@ namespace MouseOver
             toolStripStatusLabel1.Text = "Вы навели указатель Мыши на элемент управления Кнопка  " + button2.Text;
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = "Вы Нажали Кнопку " + button1.Text;
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = "Вы Нажали Кнопку " + button1.Text;
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = "Вы Нажали Кнопку " + button1.Text;
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = "Вы Нажали Кнопку " + button1.Text;
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = "Вы Нажали Кнопку " + button1.Text;
+
+        }
     }
 }

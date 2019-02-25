@@ -22,4 +22,13 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A880CE82-E2F9-405B-A773-6F4E9DA77580}
 	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/antonovav
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MouseOver\\MouseOver.csproj
+		SccProjectName1 = MouseOver
+		SccLocalPath1 = MouseOver
+	EndGlobalSection
 EndGlobal
